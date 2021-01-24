@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="data modoler cinema" id="2B5CAE30-11B0-6FD8-F838-2656285892EF" version="3.5">
+<createdBy>User</createdBy>
+<createdTime>2021-01-17 09:33:40 UTC</createdTime>
+<ownerDesignName>data modoler cinema</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>2B5CAE30-11B0-6FD8-F838-2656285892EF</designId>
+</OSDM_Design>
